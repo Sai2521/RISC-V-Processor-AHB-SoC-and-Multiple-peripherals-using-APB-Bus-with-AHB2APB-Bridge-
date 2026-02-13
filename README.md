@@ -58,9 +58,9 @@ The design connects to three memory-mapped peripherals (slaves):
 - The **APB Decoder** also converts the APB signals to peripheral-specific signals and converts the peripheral signals (e.g., **Ready** signal) back to APB signals to be sent to the APB Master.
 
 > **Note:** If you want a deeper look into each component separately, check the following:
-> - [RISC-V Processor](https://github.com/MohamedHussein27/RISC-V-Single-Cycle-Implementation)
+
 > - [APB Protocol](https://github.com/Sai2521/AMBA_AHB_Lite_with_two_slaves)
-> - [UART Peripheral](https://github.com/MohamedHussein27/UART-With-FIFOs)
+> - [UART Peripheral](https://github.com/Sai2521/UART_FIFO/blob/main/README.md)
 
 
 ---
